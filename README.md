@@ -59,6 +59,7 @@ O projeto consiste em três arquivos principais:
 ---
 
 ## 🖼️ Imagem do exercício
-- [Tela do exercicio](teladoexercicio.png)
+
+![Tela do exercicio](teladoexercicio.png)
 
 Feito por **Everton Balland** ☘️
